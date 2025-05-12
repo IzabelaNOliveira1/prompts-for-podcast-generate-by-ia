@@ -1,0 +1,11 @@
+#Prompts para Podcast "A Máquina Convence"
+
+## 🧠 ChatGPT
+Crie um roteiro de podcast de até 5 minutos sobre como o ChatGPT pode melhorar a argumentação de vendedores no atendimento B2B.
+
+## 🎙️ ElevenLabs
+Narre o seguinte texto com voz feminina, tom profissional e ritmo natural:
+"Bem-vindo ao podcast A Máquina Convence..."
+
+## 🎨 ChatGPT
+Crie uma capa para o podcast A máquina convence, em um estilo minimalista e estilizado.
